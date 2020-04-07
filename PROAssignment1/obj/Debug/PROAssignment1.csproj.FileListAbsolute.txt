@@ -1,0 +1,6 @@
+F:\Visual Studio\PROAssignment1\PROAssignment1\bin\Debug\PROAssignment1.exe.config
+F:\Visual Studio\PROAssignment1\PROAssignment1\bin\Debug\PROAssignment1.exe
+F:\Visual Studio\PROAssignment1\PROAssignment1\bin\Debug\PROAssignment1.pdb
+F:\Visual Studio\PROAssignment1\PROAssignment1\obj\Debug\PROAssignment1.csprojAssemblyReference.cache
+F:\Visual Studio\PROAssignment1\PROAssignment1\obj\Debug\PROAssignment1.exe
+F:\Visual Studio\PROAssignment1\PROAssignment1\obj\Debug\PROAssignment1.pdb
