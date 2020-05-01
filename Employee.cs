@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PROQuestion1FinalExam
+namespace PROxxxxxxxxxxxxxxx
 {
 
     class EmployeeException : Exception
@@ -132,9 +132,9 @@ namespace PROQuestion1FinalExam
 
         public static void Main(string[] args)
         {
-            CEO ceo = new CEO("Ozzy Osbourne", 125000);
-            Accountant accountant = new Accountant("Kevin Durant", 25000);
-            Clerk clerk = new Clerk("Kevin Spacey", 5000);
+            CEO ceo = new CEO("xxxxxxxx", 125000);
+            Accountant accountant = new Accountant("xxxxxxxxxx", 25000);
+            Clerk clerk = new Clerk("xxxxxxxxxxxxxxxx", 5000);
 
             Console.WriteLine($"Name: {ceo.Name}; Type: {ceo.getJobType()}; Income: {ceo.Income}; Access to: {ceo.getDocumentAccess()}");
             Console.WriteLine($"Name: {accountant.Name}; Type: {accountant.getJobType()}; Income: {accountant.Income}; Access to: {accountant.getDocumentAccess()}");
